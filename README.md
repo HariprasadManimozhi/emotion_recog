@@ -1,10 +1,10 @@
 # Emotion recognition on Television commercials
 
-Problem statement: To detect emotions of televison commercials from any source(here Youtube)  on a closed set of predefined audience and get their response to redesign the commercials. 
+**Problem statement:** To detect emotions of televison commercials from any source(here Youtube)  on a closed set of predefined audience and get their response to redesign the commercials. 
 
-Programming Languange : Python
+**Programming Languange:** Python
 
-Libraries : Emotion detection - Tensorflow | Frontend - Flask
+**Libraries:** Emotion detection - Tensorflow | Frontend - Flask
 
 Below are few screenshots of the local site:
 
